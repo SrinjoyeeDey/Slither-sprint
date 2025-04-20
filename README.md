@@ -52,18 +52,14 @@ Here’s a quick peek at how everything’s organized:
 1. ✅ Make sure Python 3 is installed
 
 
-2. 📦 Clone this repository:
-
-git clone https://github.com/your-username/snake-game.git
+2. 📦 Clone this repository:  git clone https://github.com/SrinjoyeeDey/Slither-sprint.git
 
 
-3. ▶️ Run the game:
-
-python main.py
+3. ▶️ Run the game:  python main.py
 
 
 
-No extra installations required!
+    No extra installations required!
 
 
 ---
@@ -118,11 +114,8 @@ She made learning Python super fun and beginner-friendly!
 
 If this made you smile, leave a ⭐ on the repo and help this snake grow stronger!
 
-GitHub: [your-github-link]
+LinkedIn: [https://www.linkedin.com/in/srinjoyee-dey-a670a933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
-LinkedIn: [your-linkedin-link]
-
-Twitter (X): [your-twitter-link]
 
 
 
